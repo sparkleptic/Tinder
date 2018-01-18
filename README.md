@@ -1,8 +1,6 @@
 # Tinder
-Tinder Swag
+Tinder Clone
 
-# Demo 
-https://www.youtube.com/watch?v=FTGa8Tjwfi8
 
 # Launch Tinder
 - Clone
